@@ -1,0 +1,11 @@
+{
+  "name": "إلكترون للمتاجر",
+  "short_name": "إلكترون",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" }
+  ]
+}
